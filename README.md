@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6201a1a-e2b3-421a-9dd8-8748e7a1d3a8/deploy-status)](https://app.netlify.com/sites/suspicious-raman-2e92ac/deploys)
